@@ -1,2 +1,2 @@
 # Slide-Totoro
-Javascript web game
+Javascript class project
